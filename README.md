@@ -21,7 +21,7 @@ INSTRUCTIONS:
 
 1.) git clone https://github.com/WYS1WY6/iLoveCracks
 
-2.) cd facebook-cracker
+2.) cd iLoveCracks
 
 3.) chmod +x facebook.py
 
