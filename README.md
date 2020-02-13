@@ -18,7 +18,11 @@ If you want to crack into someone's account, you must have the permission of the
 Using Brute force attack: In brute force attack method,the tool try all combination of password to provide access of victim account. Brute force attack is the only successful method to hack facebook account.
 
 INSTRUCTIONS:
+
 1.) git clone https://github.com/H1NIVyrus/iLoveCracks
+
 2.) cd facebook-cracker
+
 3.) chmod +x facebook.py
+
 4.) python facebook.py
