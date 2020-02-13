@@ -19,7 +19,7 @@ Using Brute force attack: In brute force attack method,the tool try all combinat
 
 INSTRUCTIONS:
 
-1.) git clone https://github.com/H1NIVyrus/iLoveCracks
+1.) git clone https://github.com/WYS1WY6/iLoveCracks
 
 2.) cd facebook-cracker
 
